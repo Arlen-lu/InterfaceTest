@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../API_Automation/.idea/API_Automation.iml" filepath="$PROJECT_DIR$/../API_Automation/.idea/API_Automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AppFramework/.idea/AppFramework.iml" filepath="$PROJECT_DIR$/../AppFramework/.idea/AppFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WebFramework/.idea/WebFramework.iml" filepath="$PROJECT_DIR$/../WebFramework/.idea/WebFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/interface_test.iml" filepath="$PROJECT_DIR$/.idea/interface_test.iml" />
+    </modules>
+  </component>
+</project>
